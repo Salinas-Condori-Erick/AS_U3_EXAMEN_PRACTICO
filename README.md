@@ -13,6 +13,7 @@
 **Equipo Auditor:** [Salinas Condori Erick Javier]  
 **Fecha del informe:** [27/06/2025]  
 
+Enlace repositorio: https://github.com/Salinas-Condori-Erick/AS_U3_EXAMEN_PRACTICO 
 
 ## ÍNDICE
 
